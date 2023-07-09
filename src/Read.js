@@ -1,6 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from 'react';
-import { Tab,Button, Table } from 'semantic-ui-react';
+import { Button, Table } from 'semantic-ui-react';
 import { Link } from 'react-router-dom';
 
 export default function Read()
